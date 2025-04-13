@@ -1,6 +1,8 @@
 # Verbs Not Nouns
 Repository for the slides for the conference talk "Verbs, Not Nouns," by Brian MacDonald
 
+Video: https://www.youtube.com/watch?v=37oyC9X9ua4
+
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
